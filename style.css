@@ -196,7 +196,7 @@ about music */
 video section*/
 
 .video-section{
-    background-image: url(/img/video.png);
+    background-image: url(img/video.png);
     min-height: 800px;
     display: grid;
     place-items: centre;
