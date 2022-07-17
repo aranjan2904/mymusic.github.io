@@ -90,7 +90,7 @@ section A */
 
 .hero-section{
     color: white;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/img/wepik-creative-art-history-general-presentation-2022613-152957.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/wepik-creative-art-history-general-presentation-2022613-152957.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-blend-mode: lighten;
